@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\bin\Debug\netcoreapp2.1\ProductRecommender.deps.json
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\bin\Debug\netcoreapp2.1\ProductRecommender.runtimeconfig.json
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\bin\Debug\netcoreapp2.1\ProductRecommender.runtimeconfig.dev.json
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\bin\Debug\netcoreapp2.1\ProductRecommender.dll
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\obj\Debug\netcoreapp2.1\ProductRecommender.csprojAssemblyReference.cache
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\obj\Debug\netcoreapp2.1\ProductRecommender.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\obj\Debug\netcoreapp2.1\ProductRecommender.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\obj\Debug\netcoreapp2.1\ProductRecommender.AssemblyInfo.cs
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\bin\Debug\netcoreapp2.1\ProductRecommender.pdb
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\obj\Debug\netcoreapp2.1\ProductRecommender.dll
+C:\Users\David\source\repos\ProductRecommender\ProductRecommender\obj\Debug\netcoreapp2.1\ProductRecommender.pdb
